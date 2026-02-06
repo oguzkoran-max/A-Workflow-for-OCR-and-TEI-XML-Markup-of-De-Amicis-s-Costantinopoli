@@ -1,0 +1,1015 @@
+﻿Model,Error_Type,Entity_Type,Gold_Text,Model_Text,Description
+ChatGPT,TP,placeName,Tenedo,Tenedo,Correct Match
+ChatGPT,TP,placeName,Pera,Pera,Correct Match
+ChatGPT,TP,placeName,Pera,Pera,Correct Match
+ChatGPT,TP,placeName,Pera,Pera,Correct Match
+ChatGPT,TP,placeName,Pera,Pera,Correct Match
+ChatGPT,TP,placeName,Pera,Pera,Correct Match
+ChatGPT,TP,placeName,Pera,Pera,Correct Match
+ChatGPT,TP,placeName,Pera,Pera,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+ChatGPT,TP,persName,Gautier,Gautier,Correct Match
+ChatGPT,TP,persName,Gautier,Gautier,Correct Match
+ChatGPT,TP,persName,Maometto II,Maometto II,Correct Match
+ChatGPT,FN,placeName,il serraglio di Tekyr,MISSING,Missed (FN)
+ChatGPT,TP,placeName,moschea di Maometto II,moschea di Maometto II,Correct Match
+ChatGPT,TP,persName,Chateaubriand,Chateaubriand,Correct Match
+ChatGPT,TP,persName,Chateaubriand,Chateaubriand,Correct Match
+ChatGPT,TP,placeName,Sultano Ahmed,Sultano Ahmed,Correct Match
+ChatGPT,TP,placeName,Morea,Morea,Correct Match
+ChatGPT,TP,placeName,arsenale di Tophanè,arsenale di Tophanè,Correct Match
+ChatGPT,FP,placeName,MISSING,stretto di Messina,Spurious (FP)
+ChatGPT,TP,ethnic,armeni,armeni,Correct Match
+ChatGPT,TP,placeName,Kadi-Kioi,Kadi-Kioi,Correct Match
+ChatGPT,TP,placeName,Kadi-Kioi,Kadi-Kioi,Correct Match
+ChatGPT,TP,placeName,Senna,Senna,Correct Match
+ChatGPT,TP,placeName,Lemno,Lemno,Correct Match
+ChatGPT,TP,ethnic,francese,francese,Correct Match
+ChatGPT,TP,ethnic,francese,francese,Correct Match
+ChatGPT,TP,persName,Lamartine,Lamartine,Correct Match
+ChatGPT,TP,persName,Lamartine,Lamartine,Correct Match
+ChatGPT,TP,persName,Lamartine,Lamartine,Correct Match
+ChatGPT,TP,placeName,Santa Sofia,Santa Sofia,Correct Match
+ChatGPT,TP,placeName,Santa Sofia,Santa Sofia,Correct Match
+ChatGPT,TP,placeName,moschea del Sultano Ahmed,moschea del Sultano Ahmed,Correct Match
+ChatGPT,TP,placeName,moschea di Laleli,moschea di Laleli,Correct Match
+ChatGPT,TP,ethnic,greci,greci,Correct Match
+ChatGPT,TP,ethnic,greci,greci,Correct Match
+ChatGPT,FN,placeName,Messina,MISSING,Missed (FN)
+ChatGPT,TP,persName,Perthusier,Perthusier,Correct Match
+ChatGPT,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+ChatGPT,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+ChatGPT,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+ChatGPT,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+ChatGPT,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+ChatGPT,TP,persName,Yunk,Yunk,Correct Match
+ChatGPT,TP,persName,Yunk,Yunk,Correct Match
+ChatGPT,TP,persName,Yunk,Yunk,Correct Match
+ChatGPT,FN,ethnic,italiane,MISSING,Missed (FN)
+ChatGPT,FP,placeName,MISSING,serraglio di Tekyr,Spurious (FP)
+ChatGPT,FP,persName,MISSING,La Croix,Spurious (FP)
+ChatGPT,FN,placeName,punta del Serraglio,MISSING,Missed (FN)
+ChatGPT,FN,placeName,punta del Serraglio,MISSING,Missed (FN)
+ChatGPT,TP,persName,Marcellus,Marcellus,Correct Match
+ChatGPT,FN,persName,Croix,MISSING,Missed (FN)
+ChatGPT,FN,ethnic,italiano,MISSING,Missed (FN)
+ChatGPT,TP,placeName,mare di Marmara,mare di Marmara,Correct Match
+ChatGPT,TP,placeName,mare di Marmara,mare di Marmara,Correct Match
+ChatGPT,TP,placeName, mare di Marmara,mare di Marmara,Correct Match
+ChatGPT,TP,placeName,Scutari,Scutari,Correct Match
+ChatGPT,TP,placeName,Scutari,Scutari,Correct Match
+ChatGPT,TP,placeName,Scutari,Scutari,Correct Match
+ChatGPT,TP,placeName,Scutari,Scutari,Correct Match
+ChatGPT,TP,placeName,Scutari,Scutari,Correct Match
+ChatGPT,TP,placeName,Scutari,Scutari,Correct Match
+ChatGPT,TP,placeName,Scutari,Scutari,Correct Match
+ChatGPT,TP,placeName,Scutari,Scutari,Correct Match
+ChatGPT,TP,placeName,Scutari,Scutari,Correct Match
+ChatGPT,TP,placeName,Scutari,Scutari,Correct Match
+ChatGPT,TP,placeName,Corno d’oro,Corno d’oro,Correct Match
+ChatGPT,TP,placeName,Corno d’oro,Corno d’oro,Correct Match
+ChatGPT,TP,placeName,Corno d’oro,Corno d’oro,Correct Match
+ChatGPT,TP,placeName,Corno d’oro,Corno d’oro,Correct Match
+ChatGPT,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+ChatGPT,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+ChatGPT,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+ChatGPT,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+ChatGPT,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+ChatGPT,FP,placeName,MISSING,Oriente,Spurious (FP)
+ChatGPT,FP,placeName,MISSING,Oriente,Spurious (FP)
+ChatGPT,FP,placeName,MISSING,Oriente,Spurious (FP)
+ChatGPT,TP,ethnic,albanesi,albanesi,Correct Match
+ChatGPT,TP,placeName,Demonesi,Demonesi,Correct Match
+ChatGPT,TP,placeName,torre di Galata,torre di Galata,Correct Match
+ChatGPT,TP,placeName,Bisanzio,Bisanzio,Correct Match
+ChatGPT,TP,placeName,Bisanzio,Bisanzio,Correct Match
+ChatGPT,FP,placeName,MISSING,Bisanzio,Spurious (FP)
+ChatGPT,TP,placeName,Baden-Baden,Baden-Baden,Correct Match
+ChatGPT,TP,placeName,mar Nero,mar Nero,Correct Match
+ChatGPT,TP,placeName,mar Nero,mar Nero,Correct Match
+ChatGPT,TP,placeName,Mar Nero,Mar Nero,Correct Match
+ChatGPT,FP,ethnic,MISSING,russo,Spurious (FP)
+ChatGPT,TP,placeName,moschea di Solimano,moschea di Solimano,Correct Match
+ChatGPT,TP,persName,Lady Montague,Lady Montague,Correct Match
+ChatGPT,TP,persName,Tournefort,Tournefort,Correct Match
+ChatGPT,TP,placeName,Bujukderé,Bujukderé,Correct Match
+ChatGPT,TP,persName,Costantino,Costantino,Correct Match
+ChatGPT,TP,placeName,arcipelago di Marmara,arcipelago di Marmara,Correct Match
+ChatGPT,TP,placeName,moschea di Bajazet,moschea di Bajazet,Correct Match
+ChatGPT,TP,placeName,albergo di Bisanzio,albergo di Bisanzio,Correct Match
+ChatGPT,TP,placeName,Castello delle Sette Torri,Castello delle Sette Torri,Correct Match
+ChatGPT,TP,placeName,Stambul,Stambul,Correct Match
+ChatGPT,TP,placeName,Stambul,Stambul,Correct Match
+ChatGPT,TP,placeName,Stambul,Stambul,Correct Match
+ChatGPT,TP,placeName,Stambul,Stambul,Correct Match
+ChatGPT,TP,placeName,Stambul,Stambul,Correct Match
+ChatGPT,TP,placeName,Stambul,Stambul,Correct Match
+ChatGPT,TP,placeName,Stambul,Stambul,Correct Match
+ChatGPT,TP,placeName,Stambul,Stambul,Correct Match
+ChatGPT,TP,placeName,Stambul,Stambul,Correct Match
+ChatGPT,TP,placeName,Stambul,Stambul,Correct Match
+ChatGPT,TP,placeName,Stambul,Stambul,Correct Match
+ChatGPT,TP,placeName,Stambul,Stambul,Correct Match
+ChatGPT,TP,ethnic,Megaresi,Megaresi,Correct Match
+ChatGPT,FN,placeName,Zavegorod,MISSING,Missed (FN)
+ChatGPT,FN,placeName,Zavegorod,MISSING,Missed (FN)
+ChatGPT,TP,placeName,Isole dei Principi,Isole dei Principi,Correct Match
+ChatGPT,TP,placeName,Terapia,Terapia,Correct Match
+ChatGPT,FP,placeName,MISSING,Città d’oro,Spurious (FP)
+ChatGPT,FN,placeName,moschea d’Osman,MISSING,Missed (FN)
+ChatGPT,TP,placeName,Arcipelago,Arcipelago,Correct Match
+ChatGPT,TP,ethnic,tedesco,tedesco,Correct Match
+ChatGPT,TP,placeName,Londra,Londra,Correct Match
+ChatGPT,FN,placeName,collina dell’antico serraglio,MISSING,Missed (FN)
+ChatGPT,TP,ethnic,palermitano,palermitano,Correct Match
+ChatGPT,TP,placeName,Olimpo di Bitinia,Olimpo di Bitinia,Correct Match
+ChatGPT,TP,ethnic,turchi,turchi,Correct Match
+ChatGPT,TP,ethnic,turchi,turchi,Correct Match
+ChatGPT,TP,ethnic,turchi,turchi,Correct Match
+ChatGPT,TP,ethnic,turchi,turchi,Correct Match
+ChatGPT,TP,ethnic,turchi,turchi,Correct Match
+ChatGPT,TP,ethnic,russa,russa,Correct Match
+ChatGPT,TP,ethnic,russa,russa,Correct Match
+ChatGPT,TP,ethnic,ateniesi,ateniesi,Correct Match
+ChatGPT,TP,ethnic,ateniesi,ateniesi,Correct Match
+ChatGPT,TP,ethnic,ateniesi,ateniesi,Correct Match
+ChatGPT,TP,ethnic,ateniesi,ateniesi,Correct Match
+ChatGPT,FN,placeName,porto di Bisanzio,MISSING,Missed (FN)
+ChatGPT,TP,placeName,Atene,Atene,Correct Match
+ChatGPT,TP,placeName,"golfo
+               di Salonico",golfo di Salonico,Correct Match
+ChatGPT,TP,placeName,Galata,Galata,Correct Match
+ChatGPT,TP,placeName,Galata,Galata,Correct Match
+ChatGPT,TP,placeName,Galata,Galata,Correct Match
+ChatGPT,TP,placeName,Galata,Galata,Correct Match
+ChatGPT,TP,placeName,Galata,Galata,Correct Match
+ChatGPT,TP,placeName,Galata,Galata,Correct Match
+ChatGPT,TP,placeName,Galata,Galata,Correct Match
+ChatGPT,TP,placeName,Galata,Galata,Correct Match
+ChatGPT,TP,persName,Oguz Koran,Oguz Koran,Correct Match
+ChatGPT,TP,placeName,torre bianca del Seraschiere,torre bianca del Seraschiere,Correct Match
+ChatGPT,TP,placeName,Adrianopoli,Adrianopoli,Correct Match
+ChatGPT,FN,placeName,Jonio,MISSING,Missed (FN)
+ChatGPT,TP,ethnic,ebrei,ebrei,Correct Match
+ChatGPT,TP,ethnic,ebrei,ebrei,Correct Match
+ChatGPT,FN,persName,Cristo,MISSING,Missed (FN)
+ChatGPT,FP,ethnic,MISSING,europei,Spurious (FP)
+ChatGPT,TP,placeName,Asia,Asia,Correct Match
+ChatGPT,TP,placeName,Asia,Asia,Correct Match
+ChatGPT,TP,placeName,Pireo,Pireo,Correct Match
+ChatGPT,FN,placeName,Ummelunia,MISSING,Missed (FN)
+ChatGPT,TP,placeName,Capo del Serraglio,Capo del Serraglio,Correct Match
+ChatGPT,TP,placeName,Capo del Serraglio,Capo del Serraglio,Correct Match
+ChatGPT,TP,placeName,Anatolia,Anatolia,Correct Match
+ChatGPT,TP,placeName,Europa,Europa,Correct Match
+ChatGPT,TP,placeName,Europa,Europa,Correct Match
+ChatGPT,TP,ethnic,inglese,inglese,Correct Match
+ChatGPT,TP,ethnic,inglese,inglese,Correct Match
+ChatGPT,TP,ethnic,inglese,inglese,Correct Match
+ChatGPT,TP,placeName,Propontide,Propontide,Correct Match
+ChatGPT,TP,placeName,Hagia Sofia,Hagia Sofia,Correct Match
+ChatGPT,TP,ethnic,greco,greco,Correct Match
+ChatGPT,TP,placeName,Odessa,Odessa,Correct Match
+ChatGPT,FN,placeName,collina del Serraglio,MISSING,Missed (FN)
+ChatGPT,FN,placeName,collina del serraglio,MISSING,Missed (FN)
+ChatGPT,FN,placeName,collina del Serraglio,MISSING,Missed (FN)
+ChatGPT,FN,placeName,collina del Serraglio,MISSING,Missed (FN)
+ChatGPT,TP,persName,Pouqueville,Pouqueville,Correct Match
+ChatGPT,TP,placeName,Calcedonia,Calcedonia,Correct Match
+ChatGPT,TP,placeName,Calcedonia,Calcedonia,Correct Match
+ChatGPT,TP,placeName, mar di Marmara,mar di Marmara,Correct Match
+ChatGPT,TP,placeName,mar di Marmara,mar di Marmara,Correct Match
+ChatGPT,TP,placeName,mar di Marmara,mar di Marmara,Correct Match
+ChatGPT,TP,placeName, mar di Marmara,mar di Marmara,Correct Match
+ChatGPT,TP,placeName, mar di Marmara,mar di Marmara,Correct Match
+ChatGPT,TP,placeName, mar di Marmara,mar di Marmara,Correct Match
+ChatGPT,TP,placeName, mar di Marmara,mar di Marmara,Correct Match
+ChatGPT,TP,ethnic,turca,turca,Correct Match
+ChatGPT,TP,placeName,Tracia,Tracia,Correct Match
+ChatGPT,TP,placeName,moschea di Selim,moschea di Selim,Correct Match
+ChatGPT,FP,placeName,MISSING,Delfo,Spurious (FP)
+ChatGPT,TP,placeName,Dardanelli,Dardanelli,Correct Match
+ChatGPT,TP,placeName,Dardanelli,Dardanelli,Correct Match
+ChatGPT,TP,placeName,Parigi,Parigi,Correct Match
+ChatGPT,TP,persName,Barış Yücesan,Barış Yücesan,Correct Match
+ChatGPT,FP,placeName,MISSING,mar Jonio,Spurious (FP)
+ChatGPT,TP,persName,Olga,Olga,Correct Match
+ChatGPT,TP,persName,Olga,Olga,Correct Match
+ChatGPT,TP,persName,Olga,Olga,Correct Match
+ChatGPT,TP,placeName,Tamigi,Tamigi,Correct Match
+ChatGPT,FP,placeName,MISSING,Ummelunià,Spurious (FP)
+ChatGPT,TP,placeName,Solimano il Grande,Solimano il Grande,Correct Match
+ChatGPT,TP,ethnic,russe,russe,Correct Match
+ChatGPT,TP,ethnic,russe,russe,Correct Match
+ChatGPT,TP,ethnic,armeno,armeno,Correct Match
+ChatGPT,FP,placeName,MISSING,moschea d’ Osman,Spurious (FP)
+ChatGPT,TP,placeName,Bosforo,Bosforo,Correct Match
+ChatGPT,TP,placeName,Bosforo,Bosforo,Correct Match
+ChatGPT,TP,placeName,Bosforo,Bosforo,Correct Match
+ChatGPT,TP,placeName,Bosforo,Bosforo,Correct Match
+ChatGPT,TP,placeName,Bosforo,Bosforo,Correct Match
+ChatGPT,TP,placeName,Bosforo,Bosforo,Correct Match
+ChatGPT,TP,placeName,Bosforo,Bosforo,Correct Match
+ChatGPT,TP,placeName,Bosforo,Bosforo,Correct Match
+ChatGPT,TP,placeName,Bosforo,Bosforo,Correct Match
+ChatGPT,TP,placeName,Bosforo,Bosforo,Correct Match
+ChatGPT,FN,placeName,Corno,MISSING,Missed (FN)
+ChatGPT,TP,ethnic,mussulmani,mussulmani,Correct Match
+ChatGPT,TP,placeName,Sultana Validè,Sultana Validè,Correct Match
+Gemini,TP,placeName,Tenedo,Tenedo,Correct Match
+Gemini,TP,placeName,Pera,Pera,Correct Match
+Gemini,TP,placeName,Pera,Pera,Correct Match
+Gemini,TP,placeName,Pera,Pera,Correct Match
+Gemini,TP,placeName,Pera,Pera,Correct Match
+Gemini,TP,placeName,Pera,Pera,Correct Match
+Gemini,TP,placeName,Pera,Pera,Correct Match
+Gemini,TP,placeName,Pera,Pera,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Gemini,TP,persName,Gautier,Gautier,Correct Match
+Gemini,TP,persName,Gautier,Gautier,Correct Match
+Gemini,TP,persName,Maometto II,Maometto II,Correct Match
+Gemini,FN,placeName,il serraglio di Tekyr,MISSING,Missed (FN)
+Gemini,TP,placeName,moschea di Maometto II,moschea di Maometto II,Correct Match
+Gemini,TP,persName,Chateaubriand,Chateaubriand,Correct Match
+Gemini,TP,persName,Chateaubriand,Chateaubriand,Correct Match
+Gemini,TP,placeName,Sultano Ahmed,Sultano Ahmed,Correct Match
+Gemini,TP,placeName,Morea,Morea,Correct Match
+Gemini,TP,placeName,arsenale di Tophanè,arsenale di Tophanè,Correct Match
+Gemini,FP,placeName,MISSING,stretto di Messina,Spurious (FP)
+Gemini,TP,ethnic,armeni,armeni,Correct Match
+Gemini,TP,placeName,Kadi-Kioi,Kadi-Kioi,Correct Match
+Gemini,TP,placeName,Kadi-Kioi,Kadi-Kioi,Correct Match
+Gemini,TP,placeName,Senna,Senna,Correct Match
+Gemini,TP,placeName,Lemno,Lemno,Correct Match
+Gemini,TP,ethnic,francese,francese,Correct Match
+Gemini,TP,ethnic,francese,francese,Correct Match
+Gemini,TP,persName,Lamartine,Lamartine,Correct Match
+Gemini,TP,persName,Lamartine,Lamartine,Correct Match
+Gemini,TP,persName,Lamartine,Lamartine,Correct Match
+Gemini,TP,placeName,Santa Sofia,Santa Sofia,Correct Match
+Gemini,TP,placeName,Santa Sofia,Santa Sofia,Correct Match
+Gemini,TP,placeName,moschea del Sultano Ahmed,moschea del Sultano Ahmed,Correct Match
+Gemini,TP,placeName,moschea di Laleli,moschea di Laleli,Correct Match
+Gemini,TP,ethnic,greci,greci,Correct Match
+Gemini,TP,ethnic,greci,greci,Correct Match
+Gemini,FN,placeName,Messina,MISSING,Missed (FN)
+Gemini,TP,persName,Perthusier,Perthusier,Correct Match
+Gemini,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+Gemini,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+Gemini,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+Gemini,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+Gemini,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+Gemini,TP,persName,Yunk,Yunk,Correct Match
+Gemini,TP,persName,Yunk,Yunk,Correct Match
+Gemini,TP,persName,Yunk,Yunk,Correct Match
+Gemini,FN,ethnic,italiane,MISSING,Missed (FN)
+Gemini,FP,placeName,MISSING,serraglio di Tekyr,Spurious (FP)
+Gemini,FP,persName,MISSING,La Croix,Spurious (FP)
+Gemini,TP,placeName,punta del Serraglio,punta del Serraglio,Correct Match
+Gemini,TP,placeName,punta del Serraglio,punta del Serraglio,Correct Match
+Gemini,TP,persName,Marcellus,Marcellus,Correct Match
+Gemini,FN,persName,Croix,MISSING,Missed (FN)
+Gemini,TP,ethnic,italiano,italiano,Correct Match
+Gemini,TP,placeName,mare di Marmara,mare di Marmara,Correct Match
+Gemini,TP,placeName,mare di Marmara,mare di Marmara,Correct Match
+Gemini,TP,placeName, mare di Marmara,mare di Marmara,Correct Match
+Gemini,TP,placeName,Scutari,Scutari,Correct Match
+Gemini,TP,placeName,Scutari,Scutari,Correct Match
+Gemini,TP,placeName,Scutari,Scutari,Correct Match
+Gemini,TP,placeName,Scutari,Scutari,Correct Match
+Gemini,TP,placeName,Scutari,Scutari,Correct Match
+Gemini,TP,placeName,Scutari,Scutari,Correct Match
+Gemini,TP,placeName,Scutari,Scutari,Correct Match
+Gemini,TP,placeName,Scutari,Scutari,Correct Match
+Gemini,TP,placeName,Scutari,Scutari,Correct Match
+Gemini,TP,placeName,Scutari,Scutari,Correct Match
+Gemini,TP,placeName,Corno d’oro,Corno d’oro,Correct Match
+Gemini,TP,placeName,Corno d’oro,Corno d’oro,Correct Match
+Gemini,TP,placeName,Corno d’oro,Corno d’oro,Correct Match
+Gemini,TP,placeName,Corno d’oro,Corno d’oro,Correct Match
+Gemini,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+Gemini,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+Gemini,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+Gemini,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+Gemini,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+Gemini,FP,placeName,MISSING,Oriente,Spurious (FP)
+Gemini,FP,placeName,MISSING,Oriente,Spurious (FP)
+Gemini,FP,placeName,MISSING,Oriente,Spurious (FP)
+Gemini,TP,ethnic,albanesi,albanesi,Correct Match
+Gemini,TP,placeName,Demonesi,Demonesi,Correct Match
+Gemini,TP,placeName,torre di Galata,torre di Galata,Correct Match
+Gemini,TP,placeName,Bisanzio,Bisanzio,Correct Match
+Gemini,TP,placeName,Bisanzio,Bisanzio,Correct Match
+Gemini,FP,placeName,MISSING,Bisanzio,Spurious (FP)
+Gemini,TP,placeName,Baden-Baden,Baden-Baden,Correct Match
+Gemini,TP,placeName,mar Nero,mar Nero,Correct Match
+Gemini,TP,placeName,mar Nero,mar Nero,Correct Match
+Gemini,TP,placeName,Mar Nero,Mar Nero,Correct Match
+Gemini,TP,placeName,moschea di Solimano,moschea di Solimano,Correct Match
+Gemini,TP,persName,Lady Montague,Lady Montague,Correct Match
+Gemini,TP,persName,Tournefort,Tournefort,Correct Match
+Gemini,TP,placeName,Bujukderé,Bujukderé,Correct Match
+Gemini,FN,persName,Costantino,MISSING,Missed (FN)
+Gemini,FP,placeName,MISSING,città di Costantino,Spurious (FP)
+Gemini,TP,placeName,arcipelago di Marmara,arcipelago di Marmara,Correct Match
+Gemini,TP,placeName,moschea di Bajazet,moschea di Bajazet,Correct Match
+Gemini,TP,placeName,albergo di Bisanzio,albergo di Bisanzio,Correct Match
+Gemini,TP,placeName,Castello delle Sette Torri,Castello delle Sette Torri,Correct Match
+Gemini,TP,placeName,Stambul,Stambul,Correct Match
+Gemini,TP,placeName,Stambul,Stambul,Correct Match
+Gemini,TP,placeName,Stambul,Stambul,Correct Match
+Gemini,TP,placeName,Stambul,Stambul,Correct Match
+Gemini,TP,placeName,Stambul,Stambul,Correct Match
+Gemini,TP,placeName,Stambul,Stambul,Correct Match
+Gemini,TP,placeName,Stambul,Stambul,Correct Match
+Gemini,TP,placeName,Stambul,Stambul,Correct Match
+Gemini,TP,placeName,Stambul,Stambul,Correct Match
+Gemini,TP,placeName,Stambul,Stambul,Correct Match
+Gemini,TP,placeName,Stambul,Stambul,Correct Match
+Gemini,TP,placeName,Stambul,Stambul,Correct Match
+Gemini,TP,ethnic,Megaresi,Megaresi,Correct Match
+Gemini,TP,placeName,Zavegorod,Zavegorod,Correct Match
+Gemini,TP,placeName,Zavegorod,Zavegorod,Correct Match
+Gemini,TP,placeName,Isole dei Principi,Isole dei Principi,Correct Match
+Gemini,TP,placeName,Terapia,Terapia,Correct Match
+Gemini,FP,placeName,MISSING,Città d’oro,Spurious (FP)
+Gemini,FN,placeName,moschea d’Osman,MISSING,Missed (FN)
+Gemini,TP,placeName,Arcipelago,Arcipelago,Correct Match
+Gemini,TP,ethnic,tedesco,tedesco,Correct Match
+Gemini,TP,placeName,Londra,Londra,Correct Match
+Gemini,TP,placeName,collina dell’antico serraglio,collina dell’antico serraglio,Correct Match
+Gemini,TP,ethnic,palermitano,palermitano,Correct Match
+Gemini,TP,placeName,Olimpo di Bitinia,Olimpo di Bitinia,Correct Match
+Gemini,TP,ethnic,turchi,turchi,Correct Match
+Gemini,TP,ethnic,turchi,turchi,Correct Match
+Gemini,TP,ethnic,turchi,turchi,Correct Match
+Gemini,TP,ethnic,turchi,turchi,Correct Match
+Gemini,TP,ethnic,turchi,turchi,Correct Match
+Gemini,TP,ethnic,russa,russa,Correct Match
+Gemini,TP,ethnic,russa,russa,Correct Match
+Gemini,TP,ethnic,ateniesi,ateniesi,Correct Match
+Gemini,TP,ethnic,ateniesi,ateniesi,Correct Match
+Gemini,TP,ethnic,ateniesi,ateniesi,Correct Match
+Gemini,TP,ethnic,ateniesi,ateniesi,Correct Match
+Gemini,FN,placeName,porto di Bisanzio,MISSING,Missed (FN)
+Gemini,TP,placeName,Atene,Atene,Correct Match
+Gemini,TP,placeName,"golfo
+               di Salonico",golfo di Salonico,Correct Match
+Gemini,TP,placeName,Galata,Galata,Correct Match
+Gemini,TP,placeName,Galata,Galata,Correct Match
+Gemini,TP,placeName,Galata,Galata,Correct Match
+Gemini,TP,placeName,Galata,Galata,Correct Match
+Gemini,TP,placeName,Galata,Galata,Correct Match
+Gemini,TP,placeName,Galata,Galata,Correct Match
+Gemini,TP,placeName,Galata,Galata,Correct Match
+Gemini,TP,placeName,Galata,Galata,Correct Match
+Gemini,TP,persName,Oguz Koran,Oguz Koran,Correct Match
+Gemini,TP,placeName,torre bianca del Seraschiere,torre bianca del Seraschiere,Correct Match
+Gemini,TP,placeName,Adrianopoli,Adrianopoli,Correct Match
+Gemini,FN,placeName,Jonio,MISSING,Missed (FN)
+Gemini,TP,ethnic,ebrei,ebrei,Correct Match
+Gemini,TP,ethnic,ebrei,ebrei,Correct Match
+Gemini,FN,persName,Cristo,MISSING,Missed (FN)
+Gemini,FP,ethnic,MISSING,europei,Spurious (FP)
+Gemini,TP,placeName,Asia,Asia,Correct Match
+Gemini,TP,placeName,Asia,Asia,Correct Match
+Gemini,TP,placeName,Pireo,Pireo,Correct Match
+Gemini,FN,placeName,Ummelunia,MISSING,Missed (FN)
+Gemini,TP,placeName,Capo del Serraglio,Capo del Serraglio,Correct Match
+Gemini,TP,placeName,Capo del Serraglio,Capo del Serraglio,Correct Match
+Gemini,TP,placeName,Anatolia,Anatolia,Correct Match
+Gemini,TP,placeName,Europa,Europa,Correct Match
+Gemini,TP,placeName,Europa,Europa,Correct Match
+Gemini,TP,ethnic,inglese,inglese,Correct Match
+Gemini,TP,ethnic,inglese,inglese,Correct Match
+Gemini,TP,ethnic,inglese,inglese,Correct Match
+Gemini,TP,placeName,Propontide,Propontide,Correct Match
+Gemini,TP,placeName,Hagia Sofia,Hagia Sofia,Correct Match
+Gemini,TP,ethnic,greco,greco,Correct Match
+Gemini,TP,placeName,Odessa,Odessa,Correct Match
+Gemini,TP,placeName,collina del Serraglio,collina del Serraglio,Correct Match
+Gemini,TP,placeName,collina del serraglio,collina del serraglio,Correct Match
+Gemini,TP,placeName,collina del Serraglio,collina del Serraglio,Correct Match
+Gemini,TP,placeName,collina del Serraglio,collina del Serraglio,Correct Match
+Gemini,TP,persName,Pouqueville,Pouqueville,Correct Match
+Gemini,TP,placeName,Calcedonia,Calcedonia,Correct Match
+Gemini,TP,placeName,Calcedonia,Calcedonia,Correct Match
+Gemini,TP,placeName, mar di Marmara,mar di Marmara,Correct Match
+Gemini,TP,placeName,mar di Marmara,mar di Marmara,Correct Match
+Gemini,TP,placeName,mar di Marmara,mar di Marmara,Correct Match
+Gemini,TP,placeName, mar di Marmara,mar di Marmara,Correct Match
+Gemini,TP,placeName, mar di Marmara,mar di Marmara,Correct Match
+Gemini,TP,placeName, mar di Marmara,mar di Marmara,Correct Match
+Gemini,TP,placeName, mar di Marmara,mar di Marmara,Correct Match
+Gemini,TP,ethnic,turca,turca,Correct Match
+Gemini,FP,ethnic,MISSING,turca,Spurious (FP)
+Gemini,FP,ethnic,MISSING,turca,Spurious (FP)
+Gemini,TP,placeName,Tracia,Tracia,Correct Match
+Gemini,TP,placeName,moschea di Selim,moschea di Selim,Correct Match
+Gemini,FP,placeName,MISSING,Delfo,Spurious (FP)
+Gemini,TP,placeName,Dardanelli,Dardanelli,Correct Match
+Gemini,TP,placeName,Dardanelli,Dardanelli,Correct Match
+Gemini,TP,placeName,Parigi,Parigi,Correct Match
+Gemini,TP,persName,Barış Yücesan,Barış Yücesan,Correct Match
+Gemini,FP,placeName,MISSING,mar Jonio,Spurious (FP)
+Gemini,TP,persName,Olga,Olga,Correct Match
+Gemini,TP,persName,Olga,Olga,Correct Match
+Gemini,TP,persName,Olga,Olga,Correct Match
+Gemini,TP,placeName,Tamigi,Tamigi,Correct Match
+Gemini,FP,placeName,MISSING,Ummelunià,Spurious (FP)
+Gemini,TP,placeName,Solimano il Grande,Solimano il Grande,Correct Match
+Gemini,TP,ethnic,russe,russe,Correct Match
+Gemini,TP,ethnic,russe,russe,Correct Match
+Gemini,TP,ethnic,armeno,armeno,Correct Match
+Gemini,FP,placeName,MISSING,moschea d’ Osman,Spurious (FP)
+Gemini,TP,placeName,Bosforo,Bosforo,Correct Match
+Gemini,TP,placeName,Bosforo,Bosforo,Correct Match
+Gemini,TP,placeName,Bosforo,Bosforo,Correct Match
+Gemini,TP,placeName,Bosforo,Bosforo,Correct Match
+Gemini,TP,placeName,Bosforo,Bosforo,Correct Match
+Gemini,TP,placeName,Bosforo,Bosforo,Correct Match
+Gemini,TP,placeName,Bosforo,Bosforo,Correct Match
+Gemini,TP,placeName,Bosforo,Bosforo,Correct Match
+Gemini,TP,placeName,Bosforo,Bosforo,Correct Match
+Gemini,TP,placeName,Bosforo,Bosforo,Correct Match
+Gemini,FN,placeName,Corno,MISSING,Missed (FN)
+Gemini,TP,ethnic,mussulmani,mussulmani,Correct Match
+Gemini,TP,placeName,Sultana Validè,Sultana Validè,Correct Match
+Claude,TP,placeName,Tenedo,Tenedo,Correct Match
+Claude,TP,placeName,Pera,Pera,Correct Match
+Claude,TP,placeName,Pera,Pera,Correct Match
+Claude,TP,placeName,Pera,Pera,Correct Match
+Claude,TP,placeName,Pera,Pera,Correct Match
+Claude,TP,placeName,Pera,Pera,Correct Match
+Claude,TP,placeName,Pera,Pera,Correct Match
+Claude,TP,placeName,Pera,Pera,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Claude,TP,persName,Gautier,Gautier,Correct Match
+Claude,TP,persName,Gautier,Gautier,Correct Match
+Claude,TP,persName,Maometto II,Maometto II,Correct Match
+Claude,FN,placeName,il serraglio di Tekyr,MISSING,Missed (FN)
+Claude,TP,placeName,moschea di Maometto II,moschea di Maometto II,Correct Match
+Claude,TP,persName,Chateaubriand,Chateaubriand,Correct Match
+Claude,TP,persName,Chateaubriand,Chateaubriand,Correct Match
+Claude,TP,placeName,Sultano Ahmed,Sultano Ahmed,Correct Match
+Claude,TP,placeName,Morea,Morea,Correct Match
+Claude,TP,placeName,arsenale di Tophanè,arsenale di Tophanè,Correct Match
+Claude,TP,ethnic,armeni,armeni,Correct Match
+Claude,TP,placeName,Kadi-Kioi,Kadi-Kioi,Correct Match
+Claude,TP,placeName,Kadi-Kioi,Kadi-Kioi,Correct Match
+Claude,TP,placeName,Senna,Senna,Correct Match
+Claude,TP,placeName,Lemno,Lemno,Correct Match
+Claude,FP,placeName,MISSING,moschea d'Osman,Spurious (FP)
+Claude,FP,placeName,MISSING,Salonico,Spurious (FP)
+Claude,TP,ethnic,francese,francese,Correct Match
+Claude,TP,ethnic,francese,francese,Correct Match
+Claude,TP,persName,Lamartine,Lamartine,Correct Match
+Claude,TP,persName,Lamartine,Lamartine,Correct Match
+Claude,TP,persName,Lamartine,Lamartine,Correct Match
+Claude,TP,placeName,Santa Sofia,Santa Sofia,Correct Match
+Claude,TP,placeName,Santa Sofia,Santa Sofia,Correct Match
+Claude,FP,placeName,MISSING,Marmara,Spurious (FP)
+Claude,TP,placeName,moschea del Sultano Ahmed,moschea del Sultano Ahmed,Correct Match
+Claude,TP,placeName,moschea di Laleli,moschea di Laleli,Correct Match
+Claude,TP,ethnic,greci,greci,Correct Match
+Claude,TP,ethnic,greci,greci,Correct Match
+Claude,FP,persName,MISSING,Montague,Spurious (FP)
+Claude,TP,placeName,Messina,Messina,Correct Match
+Claude,TP,persName,Perthusier,Perthusier,Correct Match
+Claude,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+Claude,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+Claude,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+Claude,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+Claude,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+Claude,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+Claude,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+Claude,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+Claude,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+Claude,TP,persName,Yunk,Yunk,Correct Match
+Claude,TP,persName,Yunk,Yunk,Correct Match
+Claude,TP,persName,Yunk,Yunk,Correct Match
+Claude,FN,ethnic,italiane,MISSING,Missed (FN)
+Claude,FP,placeName,MISSING,serraglio di Tekyr,Spurious (FP)
+Claude,FP,persName,MISSING,La Croix,Spurious (FP)
+Claude,FP,placeName,MISSING,Basso Impero,Spurious (FP)
+Claude,FN,placeName,punta del Serraglio,MISSING,Missed (FN)
+Claude,FN,placeName,punta del Serraglio,MISSING,Missed (FN)
+Claude,TP,persName,Marcellus,Marcellus,Correct Match
+Claude,FP,ethnic,MISSING,europea,Spurious (FP)
+Claude,FP,ethnic,MISSING,europea,Spurious (FP)
+Claude,FP,ethnic,MISSING,europea,Spurious (FP)
+Claude,FP,ethnic,MISSING,europea,Spurious (FP)
+Claude,FP,ethnic,MISSING,europea,Spurious (FP)
+Claude,FN,persName,Croix,MISSING,Missed (FN)
+Claude,TP,ethnic,italiano,italiano,Correct Match
+Claude,TP,placeName,mare di Marmara,mare di Marmara,Correct Match
+Claude,TP,placeName,mare di Marmara,mare di Marmara,Correct Match
+Claude,TP,placeName, mare di Marmara,mare di Marmara,Correct Match
+Claude,TP,placeName,Scutari,Scutari,Correct Match
+Claude,TP,placeName,Scutari,Scutari,Correct Match
+Claude,TP,placeName,Scutari,Scutari,Correct Match
+Claude,TP,placeName,Scutari,Scutari,Correct Match
+Claude,TP,placeName,Scutari,Scutari,Correct Match
+Claude,TP,placeName,Scutari,Scutari,Correct Match
+Claude,TP,placeName,Scutari,Scutari,Correct Match
+Claude,TP,placeName,Scutari,Scutari,Correct Match
+Claude,TP,placeName,Scutari,Scutari,Correct Match
+Claude,TP,placeName,Scutari,Scutari,Correct Match
+Claude,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+Claude,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+Claude,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+Claude,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+Claude,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+Claude,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+Claude,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+Claude,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+Claude,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+Claude,FP,placeName,MISSING,Oriente,Spurious (FP)
+Claude,FP,placeName,MISSING,Oriente,Spurious (FP)
+Claude,FP,placeName,MISSING,Oriente,Spurious (FP)
+Claude,TP,ethnic,albanesi,albanesi,Correct Match
+Claude,FP,ethnic,MISSING,ottomana,Spurious (FP)
+Claude,TP,placeName,Demonesi,Demonesi,Correct Match
+Claude,TP,placeName,torre di Galata,torre di Galata,Correct Match
+Claude,TP,placeName,Bisanzio,Bisanzio,Correct Match
+Claude,TP,placeName,Bisanzio,Bisanzio,Correct Match
+Claude,FP,placeName,MISSING,Bisanzio,Spurious (FP)
+Claude,TP,placeName,Baden-Baden,Baden-Baden,Correct Match
+Claude,TP,placeName,mar Nero,mar Nero,Correct Match
+Claude,TP,placeName,mar Nero,mar Nero,Correct Match
+Claude,TP,placeName,Mar Nero,Mar Nero,Correct Match
+Claude,FP,ethnic,MISSING,russo,Spurious (FP)
+Claude,TP,placeName,moschea di Solimano,moschea di Solimano,Correct Match
+Claude,FN,persName,Lady Montague,MISSING,Missed (FN)
+Claude,TP,persName,Tournefort,Tournefort,Correct Match
+Claude,TP,placeName,Bujukderé,Bujukderé,Correct Match
+Claude,FP,ethnic,MISSING,europeo,Spurious (FP)
+Claude,TP,persName,Costantino,Costantino,Correct Match
+Claude,FN,placeName,arcipelago di Marmara,MISSING,Missed (FN)
+Claude,TP,placeName,moschea di Bajazet,moschea di Bajazet,Correct Match
+Claude,TP,placeName,albergo di Bisanzio,albergo di Bisanzio,Correct Match
+Claude,TP,placeName,Castello delle Sette Torri,Castello delle Sette Torri,Correct Match
+Claude,TP,placeName,Stambul,Stambul,Correct Match
+Claude,TP,placeName,Stambul,Stambul,Correct Match
+Claude,TP,placeName,Stambul,Stambul,Correct Match
+Claude,TP,placeName,Stambul,Stambul,Correct Match
+Claude,TP,placeName,Stambul,Stambul,Correct Match
+Claude,TP,placeName,Stambul,Stambul,Correct Match
+Claude,TP,placeName,Stambul,Stambul,Correct Match
+Claude,TP,placeName,Stambul,Stambul,Correct Match
+Claude,TP,placeName,Stambul,Stambul,Correct Match
+Claude,TP,placeName,Stambul,Stambul,Correct Match
+Claude,TP,placeName,Stambul,Stambul,Correct Match
+Claude,TP,placeName,Stambul,Stambul,Correct Match
+Claude,TP,ethnic,Megaresi,Megaresi,Correct Match
+Claude,TP,placeName,Zavegorod,Zavegorod,Correct Match
+Claude,TP,placeName,Zavegorod,Zavegorod,Correct Match
+Claude,TP,placeName,Isole dei Principi,Isole dei Principi,Correct Match
+Claude,TP,placeName,Terapia,Terapia,Correct Match
+Claude,FN,placeName,moschea d’Osman,MISSING,Missed (FN)
+Claude,TP,placeName,Arcipelago,Arcipelago,Correct Match
+Claude,TP,ethnic,tedesco,tedesco,Correct Match
+Claude,TP,placeName,Londra,Londra,Correct Match
+Claude,FN,placeName,collina dell’antico serraglio,MISSING,Missed (FN)
+Claude,TP,ethnic,palermitano,palermitano,Correct Match
+Claude,TP,placeName,Olimpo di Bitinia,Olimpo di Bitinia,Correct Match
+Claude,TP,ethnic,turchi,turchi,Correct Match
+Claude,TP,ethnic,turchi,turchi,Correct Match
+Claude,TP,ethnic,turchi,turchi,Correct Match
+Claude,TP,ethnic,turchi,turchi,Correct Match
+Claude,TP,ethnic,turchi,turchi,Correct Match
+Claude,TP,ethnic,russa,russa,Correct Match
+Claude,TP,ethnic,russa,russa,Correct Match
+Claude,TP,ethnic,ateniesi,ateniesi,Correct Match
+Claude,TP,ethnic,ateniesi,ateniesi,Correct Match
+Claude,TP,ethnic,ateniesi,ateniesi,Correct Match
+Claude,TP,ethnic,ateniesi,ateniesi,Correct Match
+Claude,FP,ethnic,MISSING,asiatica,Spurious (FP)
+Claude,FP,ethnic,MISSING,asiatica,Spurious (FP)
+Claude,FP,ethnic,MISSING,asiatica,Spurious (FP)
+Claude,FP,ethnic,MISSING,asiatica,Spurious (FP)
+Claude,FN,placeName,porto di Bisanzio,MISSING,Missed (FN)
+Claude,TP,placeName,Atene,Atene,Correct Match
+Claude,FN,placeName,"golfo
+               di Salonico",MISSING,Missed (FN)
+Claude,TP,placeName,Galata,Galata,Correct Match
+Claude,TP,placeName,Galata,Galata,Correct Match
+Claude,TP,placeName,Galata,Galata,Correct Match
+Claude,TP,placeName,Galata,Galata,Correct Match
+Claude,TP,placeName,Galata,Galata,Correct Match
+Claude,TP,placeName,Galata,Galata,Correct Match
+Claude,TP,placeName,Galata,Galata,Correct Match
+Claude,TP,placeName,Galata,Galata,Correct Match
+Claude,TP,persName,Oguz Koran,Oguz Koran,Correct Match
+Claude,TP,placeName,torre bianca del Seraschiere,torre bianca del Seraschiere,Correct Match
+Claude,TP,placeName,Adrianopoli,Adrianopoli,Correct Match
+Claude,FN,placeName,Jonio,MISSING,Missed (FN)
+Claude,FN,ethnic,ebrei,MISSING,Missed (FN)
+Claude,FN,ethnic,ebrei,MISSING,Missed (FN)
+Claude,FN,persName,Cristo,MISSING,Missed (FN)
+Claude,FP,ethnic,MISSING,europei,Spurious (FP)
+Claude,FP,ethnic,MISSING,europei,Spurious (FP)
+Claude,TP,placeName,Asia,Asia,Correct Match
+Claude,TP,placeName,Asia,Asia,Correct Match
+Claude,TP,placeName,Pireo,Pireo,Correct Match
+Claude,FN,placeName,Ummelunia,MISSING,Missed (FN)
+Claude,TP,placeName,Capo del Serraglio,Capo del Serraglio,Correct Match
+Claude,TP,placeName,Capo del Serraglio,Capo del Serraglio,Correct Match
+Claude,TP,placeName,Anatolia,Anatolia,Correct Match
+Claude,TP,placeName,Europa,Europa,Correct Match
+Claude,TP,placeName,Europa,Europa,Correct Match
+Claude,TP,ethnic,inglese,inglese,Correct Match
+Claude,TP,ethnic,inglese,inglese,Correct Match
+Claude,TP,ethnic,inglese,inglese,Correct Match
+Claude,TP,placeName,Propontide,Propontide,Correct Match
+Claude,TP,placeName,Hagia Sofia,Hagia Sofia,Correct Match
+Claude,TP,ethnic,greco,greco,Correct Match
+Claude,TP,placeName,Odessa,Odessa,Correct Match
+Claude,FN,placeName,collina del Serraglio,MISSING,Missed (FN)
+Claude,FN,placeName,collina del serraglio,MISSING,Missed (FN)
+Claude,FN,placeName,collina del Serraglio,MISSING,Missed (FN)
+Claude,FN,placeName,collina del Serraglio,MISSING,Missed (FN)
+Claude,TP,persName,Pouqueville,Pouqueville,Correct Match
+Claude,TP,placeName,Calcedonia,Calcedonia,Correct Match
+Claude,TP,placeName,Calcedonia,Calcedonia,Correct Match
+Claude,TP,placeName, mar di Marmara,mar di Marmara,Correct Match
+Claude,TP,placeName,mar di Marmara,mar di Marmara,Correct Match
+Claude,TP,placeName,mar di Marmara,mar di Marmara,Correct Match
+Claude,TP,placeName, mar di Marmara,mar di Marmara,Correct Match
+Claude,TP,placeName, mar di Marmara,mar di Marmara,Correct Match
+Claude,TP,placeName, mar di Marmara,mar di Marmara,Correct Match
+Claude,TP,placeName, mar di Marmara,mar di Marmara,Correct Match
+Claude,TP,ethnic,turca,turca,Correct Match
+Claude,FP,ethnic,MISSING,turca,Spurious (FP)
+Claude,FP,ethnic,MISSING,turca,Spurious (FP)
+Claude,TP,placeName,Tracia,Tracia,Correct Match
+Claude,TP,placeName,moschea di Selim,moschea di Selim,Correct Match
+Claude,FP,placeName,MISSING,Delfo,Spurious (FP)
+Claude,TP,placeName,Dardanelli,Dardanelli,Correct Match
+Claude,TP,placeName,Dardanelli,Dardanelli,Correct Match
+Claude,TP,placeName,Parigi,Parigi,Correct Match
+Claude,TP,persName,Barış Yücesan,Barış Yücesan,Correct Match
+Claude,FP,placeName,MISSING,mar Jonio,Spurious (FP)
+Claude,TP,persName,Olga,Olga,Correct Match
+Claude,TP,persName,Olga,Olga,Correct Match
+Claude,TP,persName,Olga,Olga,Correct Match
+Claude,TP,placeName,Tamigi,Tamigi,Correct Match
+Claude,FP,placeName,MISSING,Ummelunià,Spurious (FP)
+Claude,TP,placeName,Solimano il Grande,Solimano il Grande,Correct Match
+Claude,TP,ethnic,russe,russe,Correct Match
+Claude,TP,ethnic,russe,russe,Correct Match
+Claude,TP,ethnic,armeno,armeno,Correct Match
+Claude,TP,placeName,Bosforo,Bosforo,Correct Match
+Claude,TP,placeName,Bosforo,Bosforo,Correct Match
+Claude,TP,placeName,Bosforo,Bosforo,Correct Match
+Claude,TP,placeName,Bosforo,Bosforo,Correct Match
+Claude,TP,placeName,Bosforo,Bosforo,Correct Match
+Claude,TP,placeName,Bosforo,Bosforo,Correct Match
+Claude,TP,placeName,Bosforo,Bosforo,Correct Match
+Claude,TP,placeName,Bosforo,Bosforo,Correct Match
+Claude,TP,placeName,Bosforo,Bosforo,Correct Match
+Claude,TP,placeName,Bosforo,Bosforo,Correct Match
+Claude,TP,placeName,Corno,Corno,Correct Match
+Claude,TP,ethnic,mussulmani,mussulmani,Correct Match
+Claude,TP,placeName,Sultana Validè,Sultana Validè,Correct Match
+Copilot,FP,persName,MISSING,capitano,Spurious (FP)
+Copilot,FP,persName,MISSING,capitano,Spurious (FP)
+Copilot,FP,persName,MISSING,capitano,Spurious (FP)
+Copilot,FP,persName,MISSING,capitano,Spurious (FP)
+Copilot,FP,persName,MISSING,Capitano,Spurious (FP)
+Copilot,FP,persName,MISSING,capitano,Spurious (FP)
+Copilot,FP,persName,MISSING,capitano,Spurious (FP)
+Copilot,FP,persName,MISSING,capitano,Spurious (FP)
+Copilot,FP,persName,MISSING,capitano,Spurious (FP)
+Copilot,FP,persName,MISSING,Capitano,Spurious (FP)
+Copilot,FP,persName,MISSING,Capitano,Spurious (FP)
+Copilot,FP,persName,MISSING,capitano,Spurious (FP)
+Copilot,FP,persName,MISSING,capitano,Spurious (FP)
+Copilot,FP,persName,MISSING,capitano,Spurious (FP)
+Copilot,FP,persName,MISSING,capitano,Spurious (FP)
+Copilot,TP,placeName,Tenedo,Tenedo,Correct Match
+Copilot,TP,placeName,Pera,Pera,Correct Match
+Copilot,TP,placeName,Pera,Pera,Correct Match
+Copilot,TP,placeName,Pera,Pera,Correct Match
+Copilot,TP,placeName,Pera,Pera,Correct Match
+Copilot,TP,placeName,Pera,Pera,Correct Match
+Copilot,TP,placeName,Pera,Pera,Correct Match
+Copilot,TP,placeName,Pera,Pera,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,placeName,Costantinopoli,Costantinopoli,Correct Match
+Copilot,TP,persName,Gautier,Gautier,Correct Match
+Copilot,TP,persName,Gautier,Gautier,Correct Match
+Copilot,TP,persName,Maometto II,Maometto II,Correct Match
+Copilot,FN,placeName,il serraglio di Tekyr,MISSING,Missed (FN)
+Copilot,TP,placeName,moschea di Maometto II,moschea di Maometto II,Correct Match
+Copilot,TP,persName,Chateaubriand,Chateaubriand,Correct Match
+Copilot,TP,persName,Chateaubriand,Chateaubriand,Correct Match
+Copilot,TP,placeName,Sultano Ahmed,Sultano Ahmed,Correct Match
+Copilot,TP,placeName,Morea,Morea,Correct Match
+Copilot,TP,placeName,arsenale di Tophanè,arsenale di Tophanè,Correct Match
+Copilot,FP,placeName,MISSING,stretto di Messina,Spurious (FP)
+Copilot,TP,ethnic,armeni,armeni,Correct Match
+Copilot,TP,placeName,Kadi-Kioi,Kadi-Kioi,Correct Match
+Copilot,TP,placeName,Kadi-Kioi,Kadi-Kioi,Correct Match
+Copilot,TP,placeName,Senna,Senna,Correct Match
+Copilot,TP,placeName,Lemno,Lemno,Correct Match
+Copilot,FP,placeName,MISSING,Serraglio,Spurious (FP)
+Copilot,FP,placeName,MISSING,Serraglio,Spurious (FP)
+Copilot,FP,placeName,MISSING,Serraglio,Spurious (FP)
+Copilot,FP,placeName,MISSING,Serraglio,Spurious (FP)
+Copilot,FP,placeName,MISSING,Serraglio,Spurious (FP)
+Copilot,FP,placeName,MISSING,Salonico,Spurious (FP)
+Copilot,TP,ethnic,francese,francese,Correct Match
+Copilot,TP,ethnic,francese,francese,Correct Match
+Copilot,FP,placeName,MISSING,europea,Spurious (FP)
+Copilot,TP,persName,Lamartine,Lamartine,Correct Match
+Copilot,TP,persName,Lamartine,Lamartine,Correct Match
+Copilot,TP,persName,Lamartine,Lamartine,Correct Match
+Copilot,TP,placeName,Santa Sofia,Santa Sofia,Correct Match
+Copilot,TP,placeName,Santa Sofia,Santa Sofia,Correct Match
+Copilot,TP,placeName,moschea del Sultano Ahmed,moschea del Sultano Ahmed,Correct Match
+Copilot,TP,placeName,moschea di Laleli,moschea di Laleli,Correct Match
+Copilot,TP,ethnic,greci,greci,Correct Match
+Copilot,TP,ethnic,greci,greci,Correct Match
+Copilot,FN,placeName,Messina,MISSING,Missed (FN)
+Copilot,FP,persName,MISSING,visconte di Marcellus,Spurious (FP)
+Copilot,TP,persName,Perthusier,Perthusier,Correct Match
+Copilot,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+Copilot,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+Copilot,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+Copilot,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+Copilot,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+Copilot,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+Copilot,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+Copilot,FP,placeName,MISSING,Corno d'oro,Spurious (FP)
+Copilot,TP,persName,Yunk,Yunk,Correct Match
+Copilot,TP,persName,Yunk,Yunk,Correct Match
+Copilot,TP,persName,Yunk,Yunk,Correct Match
+Copilot,FN,ethnic,italiane,MISSING,Missed (FN)
+Copilot,FP,placeName,MISSING,serraglio di Tekyr,Spurious (FP)
+Copilot,FP,persName,MISSING,La Croix,Spurious (FP)
+Copilot,FP,placeName,MISSING,Basso Impero,Spurious (FP)
+Copilot,FN,placeName,punta del Serraglio,MISSING,Missed (FN)
+Copilot,FN,placeName,punta del Serraglio,MISSING,Missed (FN)
+Copilot,FN,persName,Marcellus,MISSING,Missed (FN)
+Copilot,FN,persName,Croix,MISSING,Missed (FN)
+Copilot,TP,ethnic,italiano,italiano,Correct Match
+Copilot,TP,placeName,mare di Marmara,mare di Marmara,Correct Match
+Copilot,TP,placeName,mare di Marmara,mare di Marmara,Correct Match
+Copilot,FN,placeName, mare di Marmara,MISSING,Missed (FN)
+Copilot,FP,placeName,MISSING,dogana,Spurious (FP)
+Copilot,TP,placeName,Scutari,Scutari,Correct Match
+Copilot,TP,placeName,Scutari,Scutari,Correct Match
+Copilot,TP,placeName,Scutari,Scutari,Correct Match
+Copilot,TP,placeName,Scutari,Scutari,Correct Match
+Copilot,TP,placeName,Scutari,Scutari,Correct Match
+Copilot,TP,placeName,Scutari,Scutari,Correct Match
+Copilot,TP,placeName,Scutari,Scutari,Correct Match
+Copilot,TP,placeName,Scutari,Scutari,Correct Match
+Copilot,TP,placeName,Scutari,Scutari,Correct Match
+Copilot,TP,placeName,Scutari,Scutari,Correct Match
+Copilot,TP,placeName,Corno d’oro,Corno d’oro,Correct Match
+Copilot,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+Copilot,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+Copilot,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+Copilot,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+Copilot,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+Copilot,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+Copilot,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+Copilot,FN,placeName,Corno d’oro,MISSING,Missed (FN)
+Copilot,FP,placeName,MISSING,Oriente,Spurious (FP)
+Copilot,FP,placeName,MISSING,Megaresi,Spurious (FP)
+Copilot,TP,ethnic,albanesi,albanesi,Correct Match
+Copilot,TP,placeName,Demonesi,Demonesi,Correct Match
+Copilot,FP,placeName,MISSING,Seraglio,Spurious (FP)
+Copilot,FP,placeName,MISSING,Costantino,Spurious (FP)
+Copilot,TP,placeName,torre di Galata,torre di Galata,Correct Match
+Copilot,FP,placeName,MISSING,Corano,Spurious (FP)
+Copilot,TP,placeName,Bisanzio,Bisanzio,Correct Match
+Copilot,TP,placeName,Bisanzio,Bisanzio,Correct Match
+Copilot,FP,placeName,MISSING,Bisanzio,Spurious (FP)
+Copilot,TP,placeName,Baden-Baden,Baden-Baden,Correct Match
+Copilot,TP,placeName,mar Nero,mar Nero,Correct Match
+Copilot,TP,placeName,mar Nero,mar Nero,Correct Match
+Copilot,TP,placeName,Mar Nero,Mar Nero,Correct Match
+Copilot,FP,ethnic,MISSING,russo,Spurious (FP)
+Copilot,TP,placeName,moschea di Solimano,moschea di Solimano,Correct Match
+Copilot,TP,persName,Lady Montague,Lady Montague,Correct Match
+Copilot,TP,persName,Tournefort,Tournefort,Correct Match
+Copilot,TP,placeName,Bujukderé,Bujukderé,Correct Match
+Copilot,FN,persName,Costantino,MISSING,Missed (FN)
+Copilot,TP,placeName,arcipelago di Marmara,arcipelago di Marmara,Correct Match
+Copilot,TP,placeName,moschea di Bajazet,moschea di Bajazet,Correct Match
+Copilot,TP,placeName,albergo di Bisanzio,albergo di Bisanzio,Correct Match
+Copilot,TP,placeName,Castello delle Sette Torri,Castello delle Sette Torri,Correct Match
+Copilot,TP,placeName,Stambul,Stambul,Correct Match
+Copilot,TP,placeName,Stambul,Stambul,Correct Match
+Copilot,TP,placeName,Stambul,Stambul,Correct Match
+Copilot,TP,placeName,Stambul,Stambul,Correct Match
+Copilot,TP,placeName,Stambul,Stambul,Correct Match
+Copilot,TP,placeName,Stambul,Stambul,Correct Match
+Copilot,TP,placeName,Stambul,Stambul,Correct Match
+Copilot,TP,placeName,Stambul,Stambul,Correct Match
+Copilot,TP,placeName,Stambul,Stambul,Correct Match
+Copilot,TP,placeName,Stambul,Stambul,Correct Match
+Copilot,TP,placeName,Stambul,Stambul,Correct Match
+Copilot,TP,placeName,Stambul,Stambul,Correct Match
+Copilot,FN,ethnic,Megaresi,MISSING,Missed (FN)
+Copilot,FN,placeName,Zavegorod,MISSING,Missed (FN)
+Copilot,FN,placeName,Zavegorod,MISSING,Missed (FN)
+Copilot,TP,placeName,Isole dei Principi,Isole dei Principi,Correct Match
+Copilot,TP,placeName,Terapia,Terapia,Correct Match
+Copilot,FN,placeName,moschea d’Osman,MISSING,Missed (FN)
+Copilot,FP,placeName,MISSING,asiatica,Spurious (FP)
+Copilot,TP,placeName,Arcipelago,Arcipelago,Correct Match
+Copilot,TP,ethnic,tedesco,tedesco,Correct Match
+Copilot,TP,placeName,Londra,Londra,Correct Match
+Copilot,FN,placeName,collina dell’antico serraglio,MISSING,Missed (FN)
+Copilot,TP,ethnic,palermitano,palermitano,Correct Match
+Copilot,TP,placeName,Olimpo di Bitinia,Olimpo di Bitinia,Correct Match
+Copilot,TP,ethnic,turchi,turchi,Correct Match
+Copilot,TP,ethnic,turchi,turchi,Correct Match
+Copilot,TP,ethnic,turchi,turchi,Correct Match
+Copilot,TP,ethnic,turchi,turchi,Correct Match
+Copilot,TP,ethnic,turchi,turchi,Correct Match
+Copilot,TP,ethnic,russa,russa,Correct Match
+Copilot,TP,ethnic,russa,russa,Correct Match
+Copilot,TP,ethnic,ateniesi,ateniesi,Correct Match
+Copilot,TP,ethnic,ateniesi,ateniesi,Correct Match
+Copilot,TP,ethnic,ateniesi,ateniesi,Correct Match
+Copilot,TP,ethnic,ateniesi,ateniesi,Correct Match
+Copilot,FN,placeName,porto di Bisanzio,MISSING,Missed (FN)
+Copilot,TP,placeName,Atene,Atene,Correct Match
+Copilot,FN,placeName,"golfo
+               di Salonico",MISSING,Missed (FN)
+Copilot,TP,placeName,Galata,Galata,Correct Match
+Copilot,TP,placeName,Galata,Galata,Correct Match
+Copilot,TP,placeName,Galata,Galata,Correct Match
+Copilot,TP,placeName,Galata,Galata,Correct Match
+Copilot,TP,placeName,Galata,Galata,Correct Match
+Copilot,TP,placeName,Galata,Galata,Correct Match
+Copilot,TP,placeName,Galata,Galata,Correct Match
+Copilot,TP,placeName,Galata,Galata,Correct Match
+Copilot,TP,persName,Oguz Koran,Oguz Koran,Correct Match
+Copilot,TP,placeName,torre bianca del Seraschiere,torre bianca del Seraschiere,Correct Match
+Copilot,TP,placeName,Adrianopoli,Adrianopoli,Correct Match
+Copilot,FN,placeName,Jonio,MISSING,Missed (FN)
+Copilot,TP,ethnic,ebrei,ebrei,Correct Match
+Copilot,TP,ethnic,ebrei,ebrei,Correct Match
+Copilot,FN,persName,Cristo,MISSING,Missed (FN)
+Copilot,TP,placeName,Asia,Asia,Correct Match
+Copilot,TP,placeName,Asia,Asia,Correct Match
+Copilot,TP,placeName,Pireo,Pireo,Correct Match
+Copilot,FN,placeName,Ummelunia,MISSING,Missed (FN)
+Copilot,TP,placeName,Capo del Serraglio,Capo del Serraglio,Correct Match
+Copilot,TP,placeName,Capo del Serraglio,Capo del Serraglio,Correct Match
+Copilot,TP,placeName,Anatolia,Anatolia,Correct Match
+Copilot,TP,placeName,Europa,Europa,Correct Match
+Copilot,TP,placeName,Europa,Europa,Correct Match
+Copilot,TP,ethnic,inglese,inglese,Correct Match
+Copilot,TP,ethnic,inglese,inglese,Correct Match
+Copilot,TP,ethnic,inglese,inglese,Correct Match
+Copilot,TP,placeName,Propontide,Propontide,Correct Match
+Copilot,TP,placeName,Hagia Sofia,Hagia Sofia,Correct Match
+Copilot,TP,ethnic,greco,greco,Correct Match
+Copilot,TP,placeName,Odessa,Odessa,Correct Match
+Copilot,FN,placeName,collina del Serraglio,MISSING,Missed (FN)
+Copilot,FN,placeName,collina del serraglio,MISSING,Missed (FN)
+Copilot,FN,placeName,collina del Serraglio,MISSING,Missed (FN)
+Copilot,FN,placeName,collina del Serraglio,MISSING,Missed (FN)
+Copilot,TP,persName,Pouqueville,Pouqueville,Correct Match
+Copilot,TP,placeName,Calcedonia,Calcedonia,Correct Match
+Copilot,TP,placeName,Calcedonia,Calcedonia,Correct Match
+Copilot,TP,placeName, mar di Marmara,mar di Marmara,Correct Match
+Copilot,TP,placeName,mar di Marmara,mar di Marmara,Correct Match
+Copilot,TP,placeName,mar di Marmara,mar di Marmara,Correct Match
+Copilot,TP,placeName, mar di Marmara,mar di Marmara,Correct Match
+Copilot,TP,placeName, mar di Marmara,mar di Marmara,Correct Match
+Copilot,TP,placeName, mar di Marmara,mar di Marmara,Correct Match
+Copilot,TP,placeName, mar di Marmara,mar di Marmara,Correct Match
+Copilot,FP,placeName,MISSING,mar di Marmara,Spurious (FP)
+Copilot,TP,ethnic,turca,turca,Correct Match
+Copilot,TP,placeName,Tracia,Tracia,Correct Match
+Copilot,TP,placeName,moschea di Selim,moschea di Selim,Correct Match
+Copilot,FP,placeName,MISSING,Delfo,Spurious (FP)
+Copilot,TP,placeName,Dardanelli,Dardanelli,Correct Match
+Copilot,TP,placeName,Dardanelli,Dardanelli,Correct Match
+Copilot,TP,placeName,Parigi,Parigi,Correct Match
+Copilot,TP,persName,Barış Yücesan,Barış Yücesan,Correct Match
+Copilot,FP,placeName,MISSING,mar Jonio,Spurious (FP)
+Copilot,TP,persName,Olga,Olga,Correct Match
+Copilot,TP,persName,Olga,Olga,Correct Match
+Copilot,TP,persName,Olga,Olga,Correct Match
+Copilot,TP,placeName,Tamigi,Tamigi,Correct Match
+Copilot,FP,placeName,MISSING,Ummelunià,Spurious (FP)
+Copilot,TP,placeName,Solimano il Grande,Solimano il Grande,Correct Match
+Copilot,TP,ethnic,russe,russe,Correct Match
+Copilot,TP,ethnic,russe,russe,Correct Match
+Copilot,TP,ethnic,armeno,armeno,Correct Match
+Copilot,FP,placeName,MISSING,moschea d’ Osman,Spurious (FP)
+Copilot,TP,placeName,Bosforo,Bosforo,Correct Match
+Copilot,TP,placeName,Bosforo,Bosforo,Correct Match
+Copilot,TP,placeName,Bosforo,Bosforo,Correct Match
+Copilot,TP,placeName,Bosforo,Bosforo,Correct Match
+Copilot,TP,placeName,Bosforo,Bosforo,Correct Match
+Copilot,TP,placeName,Bosforo,Bosforo,Correct Match
+Copilot,TP,placeName,Bosforo,Bosforo,Correct Match
+Copilot,TP,placeName,Bosforo,Bosforo,Correct Match
+Copilot,TP,placeName,Bosforo,Bosforo,Correct Match
+Copilot,TP,placeName,Bosforo,Bosforo,Correct Match
+Copilot,TP,placeName,Corno,Corno,Correct Match
+Copilot,FP,placeName,MISSING,ponte,Spurious (FP)
+Copilot,FP,placeName,MISSING,ponte,Spurious (FP)
+Copilot,TP,ethnic,mussulmani,mussulmani,Correct Match
+Copilot,TP,placeName,Sultana Validè,Sultana Validè,Correct Match
