@@ -1,0 +1,15 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+This license applies to all derived datasets in this repository,
+including but not limited to:
+
+- OCR outputs
+- TEI/XML files
+- CSV tables
+- Excel files
+- Error annotation datasets
+
+You are free to share and adapt the material for any purpose,
+provided appropriate credit is given.
+
+Primary source materials are excluded due to third-party copyright.
