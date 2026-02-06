@@ -1,0 +1,238 @@
+﻿Model,Category,Content,Frequency
+Copilot Smart (GPT-5),Character Error,'’' -> ''',122
+Copilot Smart (GPT-5),Character Error,'—' -> '-',40
+Copilot Smart (GPT-5),Character Error,'i' -> 'ì',1
+Copilot Smart (GPT-5),Character Error,'c' -> 'e',1
+Copilot Smart (GPT-5),Missed Word,—,51
+Copilot Smart (GPT-5),Missed Word,d’un,7
+Copilot Smart (GPT-5),Missed Word,d’ogni,5
+Copilot Smart (GPT-5),Missed Word,d’una,5
+Copilot Smart (GPT-5),Missed Word,"d’oro,",4
+Copilot Smart (GPT-5),Missed Word,"—,",4
+Copilot Smart (GPT-5),Missed Word,s’era,4
+Copilot Smart (GPT-5),Missed Word,—;,4
+Copilot Smart (GPT-5),Missed Word,d’andare,3
+Copilot Smart (GPT-5),Missed Word,c’era,3
+Copilot Smart (GPT-5),Missed Word,l’arcipelago,2
+Copilot Smart (GPT-5),Missed Word,all’alba,2
+Copilot Smart (GPT-5),Missed Word,all’ultimo,2
+Copilot Smart (GPT-5),Missed Word,dall’altra,2
+Copilot Smart (GPT-5),Missed Word,un’ora,2
+Copilot Smart (GPT-5),Missed Word,dell’entrata,2
+Copilot Smart (GPT-5),Missed Word,s’alzano,2
+Copilot Smart (GPT-5),Missed Word,l’arrivo,1
+Copilot Smart (GPT-5),Missed Word,l’emozione,1
+Copilot Smart (GPT-5),Missed Word,all’imboccatura,1
+Copilot Smart (GPT-5),Hallucination (Added),-,49
+Copilot Smart (GPT-5),Hallucination (Added),d'un,7
+Copilot Smart (GPT-5),Hallucination (Added),"-,",5
+Copilot Smart (GPT-5),Hallucination (Added),d'ogni,5
+Copilot Smart (GPT-5),Hallucination (Added),d'una,5
+Copilot Smart (GPT-5),Hallucination (Added),-;,5
+Copilot Smart (GPT-5),Hallucination (Added),"d'oro,",4
+Copilot Smart (GPT-5),Hallucination (Added),s'era,4
+Copilot Smart (GPT-5),Hallucination (Added),d'andare,3
+Copilot Smart (GPT-5),Hallucination (Added),c'era,3
+Copilot Smart (GPT-5),Hallucination (Added),l'arcipelago,2
+Copilot Smart (GPT-5),Hallucination (Added),all'alba,2
+Copilot Smart (GPT-5),Hallucination (Added),all'ultimo,2
+Copilot Smart (GPT-5),Hallucination (Added),:,2
+Copilot Smart (GPT-5),Hallucination (Added),dall'altra,2
+Copilot Smart (GPT-5),Hallucination (Added),un',2
+Copilot Smart (GPT-5),Hallucination (Added),«,2
+Copilot Smart (GPT-5),Hallucination (Added),la,2
+Copilot Smart (GPT-5),Hallucination (Added),mare.,2
+Copilot Smart (GPT-5),Hallucination (Added),dell'entrata,2
+Gemini 3 Pro,Character Error,''' -> '’',9
+Gemini 3 Pro,Character Error,'a' -> 'e',1
+Gemini 3 Pro,Character Error,'é' -> 'è',1
+Gemini 3 Pro,Missed Word,"d'oro,",4
+Gemini 3 Pro,Missed Word,"marmara,",3
+Gemini 3 Pro,Missed Word,l'antica,3
+Gemini 3 Pro,Missed Word,"mare,",3
+Gemini 3 Pro,Missed Word,un’ora,2
+Gemini 3 Pro,Missed Word,—,2
+Gemini 3 Pro,Missed Word,dell’entrata,2
+Gemini 3 Pro,Missed Word,"noi,",2
+Gemini 3 Pro,Missed Word,s’era,2
+Gemini 3 Pro,Missed Word,"europea,",2
+Gemini 3 Pro,Missed Word,s'innalzano,2
+Gemini 3 Pro,Missed Word,gridò:,2
+Gemini 3 Pro,Missed Word,"mondo,",2
+Gemini 3 Pro,Missed Word,la,2
+Gemini 3 Pro,Missed Word,"scutari,",2
+Gemini 3 Pro,Missed Word,e,2
+Gemini 3 Pro,Missed Word,l’arrivo,1
+Gemini 3 Pro,Missed Word,"tenedo,",1
+Gemini 3 Pro,Missed Word,"viaggio,",1
+Gemini 3 Pro,Missed Word,m’esca,1
+Gemini 3 Pro,Hallucination (Added),",",90
+Gemini 3 Pro,Hallucination (Added),d’,13
+Gemini 3 Pro,Hallucination (Added),s’,9
+Gemini 3 Pro,Hallucination (Added),un’,7
+Gemini 3 Pro,Hallucination (Added),;,7
+Gemini 3 Pro,Hallucination (Added),l’,5
+Gemini 3 Pro,Hallucination (Added),dell’,5
+Gemini 3 Pro,Hallucination (Added),!,4
+Gemini 3 Pro,Hallucination (Added),:,4
+Gemini 3 Pro,Hallucination (Added),era,4
+Gemini 3 Pro,Hallucination (Added),dall’,3
+Gemini 3 Pro,Hallucination (Added),marmara,3
+Gemini 3 Pro,Hallucination (Added),l’antica,3
+Gemini 3 Pro,Hallucination (Added),mare,3
+Gemini 3 Pro,Hallucination (Added),nell’,3
+Gemini 3 Pro,Hallucination (Added),m’,2
+Gemini 3 Pro,Hallucination (Added),un,2
+Gemini 3 Pro,Hallucination (Added),anch’,2
+Gemini 3 Pro,Hallucination (Added),altra,2
+Gemini 3 Pro,Hallucination (Added),ora,2
+Claude Sonnet 4.5,Character Error,'’' -> ''',128
+Claude Sonnet 4.5,Character Error,';' -> ':',2
+Claude Sonnet 4.5,Character Error,'n' -> 'm',1
+Claude Sonnet 4.5,Character Error,'é' -> 'è',1
+Claude Sonnet 4.5,Character Error,'e' -> 's',1
+Claude Sonnet 4.5,Character Error,'e' -> 'a',1
+Claude Sonnet 4.5,Missed Word,d’un,7
+Claude Sonnet 4.5,Missed Word,d’ogni,5
+Claude Sonnet 4.5,Missed Word,d’una,5
+Claude Sonnet 4.5,Missed Word,"d’oro,",4
+Claude Sonnet 4.5,Missed Word,s’era,4
+Claude Sonnet 4.5,Missed Word,d’andare,3
+Claude Sonnet 4.5,Missed Word,c’era,3
+Claude Sonnet 4.5,Missed Word,l’arcipelago,2
+Claude Sonnet 4.5,Missed Word,all’alba,2
+Claude Sonnet 4.5,Missed Word,all’ultimo,2
+Claude Sonnet 4.5,Missed Word,dall’altra,2
+Claude Sonnet 4.5,Missed Word,un’ora,2
+Claude Sonnet 4.5,Missed Word,dell’entrata,2
+Claude Sonnet 4.5,Missed Word,s’alzano,2
+Claude Sonnet 4.5,Missed Word,l’arrivo,1
+Claude Sonnet 4.5,Missed Word,l’emozione,1
+Claude Sonnet 4.5,Missed Word,all’imboccatura,1
+Claude Sonnet 4.5,Missed Word,"d’atene,",1
+Claude Sonnet 4.5,Missed Word,d’immaginazione,1
+Claude Sonnet 4.5,Missed Word,m’esca,1
+Claude Sonnet 4.5,Hallucination (Added),d'un,7
+Claude Sonnet 4.5,Hallucination (Added),d'ogni,5
+Claude Sonnet 4.5,Hallucination (Added),d'una,5
+Claude Sonnet 4.5,Hallucination (Added),"d'oro,",4
+Claude Sonnet 4.5,Hallucination (Added),s'era,4
+Claude Sonnet 4.5,Hallucination (Added),d'andare,3
+Claude Sonnet 4.5,Hallucination (Added),c'era,3
+Claude Sonnet 4.5,Hallucination (Added),l'arcipelago,2
+Claude Sonnet 4.5,Hallucination (Added),all'alba,2
+Claude Sonnet 4.5,Hallucination (Added),all'ultimo,2
+Claude Sonnet 4.5,Hallucination (Added),dall'altra,2
+Claude Sonnet 4.5,Hallucination (Added),un'ora,2
+Claude Sonnet 4.5,Hallucination (Added),«,2
+Claude Sonnet 4.5,Hallucination (Added),dell'entrata,2
+Claude Sonnet 4.5,Hallucination (Added),!,2
+Claude Sonnet 4.5,Hallucination (Added),s'alzano,2
+Claude Sonnet 4.5,Hallucination (Added),l',1
+Claude Sonnet 4.5,Hallucination (Added),arrivo,1
+Claude Sonnet 4.5,Hallucination (Added),l'emozione,1
+Claude Sonnet 4.5,Hallucination (Added),all'imboccatura,1
+ChatGPT 5.1 Pro,Character Error,'’' -> ''',38
+ChatGPT 5.1 Pro,Character Error,'—' -> '–',15
+ChatGPT 5.1 Pro,Character Error,''' -> '’',10
+ChatGPT 5.1 Pro,Character Error,'è' -> 'é',3
+ChatGPT 5.1 Pro,Character Error,'i' -> 'ì',2
+ChatGPT 5.1 Pro,Character Error,'é' -> 'è',1
+ChatGPT 5.1 Pro,Character Error,"';' -> ','",1
+ChatGPT 5.1 Pro,Character Error,'.' -> '!',1
+ChatGPT 5.1 Pro,Character Error,'p' -> 'f',1
+ChatGPT 5.1 Pro,Character Error,'u' -> 'i',1
+ChatGPT 5.1 Pro,Missed Word,—,19
+ChatGPT 5.1 Pro,Missed Word,"—,",4
+ChatGPT 5.1 Pro,Missed Word,d’un,3
+ChatGPT 5.1 Pro,Missed Word,l'antica,3
+ChatGPT 5.1 Pro,Missed Word,"d'oro,",3
+ChatGPT 5.1 Pro,Missed Word,mormorio,2
+ChatGPT 5.1 Pro,Missed Word,nè,2
+ChatGPT 5.1 Pro,Missed Word,d’andare,2
+ChatGPT 5.1 Pro,Missed Word,dell’entrata,2
+ChatGPT 5.1 Pro,Missed Word,"d’oro,",2
+ChatGPT 5.1 Pro,Missed Word,minareti,2
+ChatGPT 5.1 Pro,Missed Word,mia,1
+ChatGPT 5.1 Pro,Missed Word,un’espressione,1
+ChatGPT 5.1 Pro,Missed Word,un’apparenza,1
+ChatGPT 5.1 Pro,Missed Word,d’animo,1
+ChatGPT 5.1 Pro,Missed Word,dell’universo;,1
+ChatGPT 5.1 Pro,Missed Word,l’abbia,1
+ChatGPT 5.1 Pro,Missed Word,c’è,1
+ChatGPT 5.1 Pro,Missed Word,"illusioni,",1
+ChatGPT 5.1 Pro,Missed Word,l’anima,1
+ChatGPT 5.1 Pro,Hallucination (Added),–,19
+ChatGPT 5.1 Pro,Hallucination (Added),d'un,3
+ChatGPT 5.1 Pro,Hallucination (Added),"–,",3
+ChatGPT 5.1 Pro,Hallucination (Added),l’antica,3
+ChatGPT 5.1 Pro,Hallucination (Added),"d’oro,",3
+ChatGPT 5.1 Pro,Hallucination (Added),mormorìo,2
+ChatGPT 5.1 Pro,Hallucination (Added),né,2
+ChatGPT 5.1 Pro,Hallucination (Added),d'andare,2
+ChatGPT 5.1 Pro,Hallucination (Added),dell'entrata,2
+ChatGPT 5.1 Pro,Hallucination (Added),"d'oro,",2
+ChatGPT 5.1 Pro,Hallucination (Added),in,2
+ChatGPT 5.1 Pro,Hallucination (Added),minaretti,2
+ChatGPT 5.1 Pro,Hallucination (Added),un'espressione,1
+ChatGPT 5.1 Pro,Hallucination (Added),un'apparenza,1
+ChatGPT 5.1 Pro,Hallucination (Added),d'animo,1
+ChatGPT 5.1 Pro,Hallucination (Added),dell'universo;,1
+ChatGPT 5.1 Pro,Hallucination (Added),l'abbia,1
+ChatGPT 5.1 Pro,Hallucination (Added),c'è,1
+ChatGPT 5.1 Pro,Hallucination (Added),illusioni,1
+ChatGPT 5.1 Pro,Hallucination (Added),l'anima,1
+Adobe Acrobat Pro,Character Error,'’' -> 'í',54
+Adobe Acrobat Pro,Character Error,'è' -> 'ë',10
+Adobe Acrobat Pro,Character Error,'—' -> 'ó',10
+Adobe Acrobat Pro,Character Error,'ù' -> '˘',9
+Adobe Acrobat Pro,Character Error,'à' -> '‡',8
+Adobe Acrobat Pro,Character Error,'ò' -> 'ú',2
+Adobe Acrobat Pro,Character Error,'ì' -> 'i',2
+Adobe Acrobat Pro,Character Error,'ì' -> 'ï',1
+Adobe Acrobat Pro,Character Error,'è' -> '»',1
+Adobe Acrobat Pro,Character Error,'u' -> 'n',1
+Adobe Acrobat Pro,Character Error,'è' -> '1',1
+Adobe Acrobat Pro,Character Error,' ' -> 'ë',1
+Adobe Acrobat Pro,Character Error,'é' -> 'ë',1
+Adobe Acrobat Pro,Character Error,'e' -> '^',1
+Adobe Acrobat Pro,Missed Word,—,51
+Adobe Acrobat Pro,Missed Word,più,28
+Adobe Acrobat Pro,Missed Word,è,22
+Adobe Acrobat Pro,Missed Word,città,22
+Adobe Acrobat Pro,Missed Word,là,11
+Adobe Acrobat Pro,Missed Word,d’un,7
+Adobe Acrobat Pro,Missed Word,già,7
+Adobe Acrobat Pro,Missed Word,sommità,7
+Adobe Acrobat Pro,Missed Word,il,5
+Adobe Acrobat Pro,Missed Word,d’ogni,5
+Adobe Acrobat Pro,Missed Word,d’una,5
+Adobe Acrobat Pro,Missed Word,"d’oro,",4
+Adobe Acrobat Pro,Missed Word,perchè,4
+Adobe Acrobat Pro,Missed Word,"—,",4
+Adobe Acrobat Pro,Missed Word,gridò,4
+Adobe Acrobat Pro,Missed Word,s’era,4
+Adobe Acrobat Pro,Missed Word,"d'oro,",4
+Adobe Acrobat Pro,Missed Word,e,4
+Adobe Acrobat Pro,Missed Word,—;,4
+Adobe Acrobat Pro,Missed Word,d’andare,3
+Adobe Acrobat Pro,Hallucination (Added),ó,47
+Adobe Acrobat Pro,Hallucination (Added),pi˘,26
+Adobe Acrobat Pro,Hallucination (Added),citt‡,23
+Adobe Acrobat Pro,Hallucination (Added),",",19
+Adobe Acrobat Pro,Hallucination (Added),ë,17
+Adobe Acrobat Pro,Hallucination (Added),;,13
+Adobe Acrobat Pro,Hallucination (Added),!,11
+Adobe Acrobat Pro,Hallucination (Added),l‡,11
+Adobe Acrobat Pro,Hallucination (Added),"díoro,",7
+Adobe Acrobat Pro,Hallucination (Added),díun,7
+Adobe Acrobat Pro,Hallucination (Added),uní,7
+Adobe Acrobat Pro,Hallucination (Added),gi‡,7
+Adobe Acrobat Pro,Hallucination (Added),sommit‡,7
+Adobe Acrobat Pro,Hallucination (Added),dí,6
+Adobe Acrobat Pro,Hallucination (Added),díogni,5
+Adobe Acrobat Pro,Hallucination (Added),sí,5
+Adobe Acrobat Pro,Hallucination (Added),gridú,5
+Adobe Acrobat Pro,Hallucination (Added),ó;,5
+Adobe Acrobat Pro,Hallucination (Added),perchë,4
+Adobe Acrobat Pro,Hallucination (Added),»,4
